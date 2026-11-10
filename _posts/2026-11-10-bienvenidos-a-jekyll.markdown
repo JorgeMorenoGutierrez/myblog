@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "bienvenido a jekyll!"
-date:   2026-11-10 10:11:37 +0000
+date:   2026-11-9
 categories: jekyll update
 ---
 esto es una prueba para los post
